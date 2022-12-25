@@ -1,0 +1,11 @@
+/* 
+  Challenges.strings
+  GuessTheFlagApp
+
+  Created by Kiran Sonne on 08/07/22.
+  
+*/
+/*
+ 1.Keep track of how many questions have been asked, and show one final alert controller after they have answered 10. This should show their final score.
+ 2.When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
+ */
